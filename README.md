@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tanmay052002/Leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
