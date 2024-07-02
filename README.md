@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tanmay052002/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Tanmay052002/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Tanmay052002/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Tanmay052002/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Tanmay052002/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Tanmay052002/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Tanmay052002/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Tanmay052002/Leetcode/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/Tanmay052002/Leetcode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Tanmay052002/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Tanmay052002/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
