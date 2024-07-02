@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tanmay052002/Leetcode/tree/master/0075-sort-colors) |
+| [0792-binary-search](https://github.com/Tanmay052002/Leetcode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/Tanmay052002/Leetcode/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
