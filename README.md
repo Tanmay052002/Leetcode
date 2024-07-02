@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tanmay052002/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Tanmay052002/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay052002/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Tanmay052002/Leetcode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanmay052002/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Tanmay052002/Leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay052002/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
