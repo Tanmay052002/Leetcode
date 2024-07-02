@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tanmay052002/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay052002/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tanmay052002/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanmay052002/Leetcode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tanmay052002/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay052002/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tanmay052002/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanmay052002/Leetcode/tree/master/0792-binary-search) |
 ## String
 |  |
