@@ -78,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Tanmay052002/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Tanmay052002/Leetcode/tree/master/0937-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Tanmay052002/Leetcode/tree/master/1013-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Tanmay052002/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Tanmay052002/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
