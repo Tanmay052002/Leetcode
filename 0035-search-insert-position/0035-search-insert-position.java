@@ -17,6 +17,7 @@ class Solution {
             }
         }
         
+        // if it's not mid then always low show the floor value(ex-> 5.5 then floor = 5)  
         return low;
     }
 }
