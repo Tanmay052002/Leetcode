@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Tanmay052002/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Tanmay052002/Leetcode/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Tanmay052002/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Tanmay052002/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Tanmay052002/Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay052002/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Tanmay052002/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanmay052002/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanmay052002/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Tanmay052002/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
