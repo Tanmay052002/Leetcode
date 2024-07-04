@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanmay052002/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/Tanmay052002/Leetcode/tree/master/0344-reverse-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmay052002/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Tanmay052002/Leetcode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Tanmay052002/Leetcode/tree/master/0937-online-stock-span) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmay052002/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
