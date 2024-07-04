@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanmay052002/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/Tanmay052002/Leetcode/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmay052002/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2825-minimize-string-length](https://github.com/Tanmay052002/Leetcode/tree/master/2825-minimize-string-length) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Tanmay052002/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Tanmay052002/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2825-minimize-string-length](https://github.com/Tanmay052002/Leetcode/tree/master/2825-minimize-string-length) |
 ## Backtracking
 |  |
 | ------- |
