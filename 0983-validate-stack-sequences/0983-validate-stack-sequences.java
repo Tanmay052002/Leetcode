@@ -3,7 +3,8 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         
         int j = 0;
-        for(int i = 0; i < pushed.length; i++){
+        
+        for(int i = 0; i < pushed.length && j < popped.length; i++){
             if(st.size() != 0 && st.peek() == popped[j]){
                 st.pop();
                 j++;
