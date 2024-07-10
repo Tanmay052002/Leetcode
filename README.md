@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanmay052002/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanmay052002/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Tanmay052002/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0983-validate-stack-sequences](https://github.com/Tanmay052002/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tanmay052002/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tanmay052002/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Tanmay052002/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Tanmay052002/Leetcode/tree/master/0937-online-stock-span) |
+| [0983-validate-stack-sequences](https://github.com/Tanmay052002/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tanmay052002/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Tanmay052002/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/Tanmay052002/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/Tanmay052002/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
