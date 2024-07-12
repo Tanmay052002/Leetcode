@@ -3,23 +3,39 @@ class Solution {
         Stack<Integer> st = new Stack<>();
 
         for(int i = 0; i < asteroids.length; i++){
+
             if(st.size() == 0){
                 st.push(asteroids[i]);
-            }else if(asteroids[i] < 0 && st.peek() < 0){
+            }
+
+            // ++ no collision possible  (st.peek() > 0 && asteroids[i] > 0 )
+            // if asteroid[i] is positive they will never collide
+
+            // -+ no collision possible  (st.peek() < 0 && asteroids[i] > 0  )
+            // if asteroid[i] is positive they will never collide
+           
+            else if(asteroids[i] > 0 ){
                 st.push(asteroids[i]);
-            }else if(asteroids[i] > 0 && st.peek() > 0){
-                st.push(asteroids[i]);
-            }else if(asteroids[i] > 0 && st.peek() < 0){
-                st.push(asteroids[i]);
-            }else if(asteroids[i] < 0){
-                if(st.peek() > -1*(asteroids[i])){
-                    continue;
-                }else if(st.peek() < -1*(asteroids[i])){
-                    st.pop();
-                    i--;
-                }else if(st.peek() == -1*(asteroids[i])){
-                    st.pop();
-                    continue;
+            }
+
+            else{
+
+// -- no collision possible both in same direction
+                if(st.peek() < 0 ){ // ifpeek is also - 
+                    st.push(asteroids[i]);
+                }
+            
+// -+ collision possible
+                else{ 
+                    if(st.peek() > -1*(asteroids[i])){
+                        continue;
+                    }else if(st.peek() < -1*(asteroids[i])){
+                        st.pop();
+                        i--;
+                    }else if(st.peek() == -1*(asteroids[i])){
+                        st.pop();
+                        continue;
+                    }
                 }
             }
         }
