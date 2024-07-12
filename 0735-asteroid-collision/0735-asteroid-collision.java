@@ -18,21 +18,21 @@ class Solution {
                 st.push(asteroids[i]);
             }
 
-            else{
+            else{ // if asteroid[i] is -ve
 
-// -- no collision possible both in same direction
+                // -- no collision possible both in same direction
                 if(st.peek() < 0 ){ // ifpeek is also - 
                     st.push(asteroids[i]);
                 }
             
-// -+ collision possible
+                // -+ collision possible
                 else{ 
-                    if(st.peek() > -1*(asteroids[i])){
+                    if(st.peek() > Math.abs(asteroids[i])){
                         continue;
-                    }else if(st.peek() < -1*(asteroids[i])){
+                    }else if(st.peek() < Math.abs(asteroids[i])){
                         st.pop();
                         i--;
-                    }else if(st.peek() == -1*(asteroids[i])){
+                    }else if(st.peek() == Math.abs(asteroids[i])){
                         st.pop();
                         continue;
                     }
