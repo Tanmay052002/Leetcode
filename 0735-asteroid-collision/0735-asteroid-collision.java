@@ -11,7 +11,7 @@ class Solution {
                 st.push(asteroids[i]);
             }else if(asteroids[i] > 0 && st.peek() < 0){
                 st.push(asteroids[i]);
-            }else if(asteroids[i] < 0 && st.peek() > 0){
+            }else if(asteroids[i] < 0){
                 if(st.peek() > -1*(asteroids[i])){
                     continue;
                 }else if(st.peek() < -1*(asteroids[i])){
