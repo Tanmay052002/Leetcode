@@ -15,23 +15,21 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        int res = 0;
-        int[] count = new int[1];
-        res = pre(root,count);
+        pre(root);
         
-        return res ;
-        
+        return count ;
         
     }
-    public int pre(TreeNode root,int[] count){
+    int count = 0;
+    public void pre(TreeNode root){
     if(root == null){
-            return count[0];
+            return ;
         }
-        count[0] = count[0] + 1;
+        count++;
         
-        pre(root.left,count);
+        pre(root.left);
         
-        pre(root.right,count);
-        return count[0];
+        pre(root.right);
+        return ;
     }
 }
