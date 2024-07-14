@@ -24,7 +24,7 @@ class Solution {
     }
     public int pre(TreeNode root,int count){
     if(root == null){
-            return count;
+            return 0;
         }
 
         
