@@ -28,10 +28,10 @@ class Solution {
         }
 
         
-        int temp = pre(root.left,count);
+        int tempLeft = pre(root.left,count);
         
-        int temp2 = pre(root.right,count);
+        int tempRight = pre(root.right,count);
 
-        return temp+temp2+1;
+        return tempLeft + tempRight + 1;
     }
 }
