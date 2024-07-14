@@ -15,22 +15,22 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        int res = 0;
-        res = pre(root,res);
+        
+        int res = pre(root);
         
         return res ;
         
         
     }
-    public int pre(TreeNode root,int count){
+    public int pre(TreeNode root){
     if(root == null){
             return 0;
         }
 
         
-        int tempLeft = pre(root.left,count);
+        int tempLeft = pre(root.left);
         
-        int tempRight = pre(root.right,count);
+        int tempRight = pre(root.right);
 
         return tempLeft + tempRight + 1;
     }
