@@ -1,7 +1,6 @@
 class MyStack {
 
     Queue<Integer> q1 = new LinkedList<>();
-    Queue<Integer> q2 = new LinkedList<>();
 
     public MyStack() {   
 
@@ -14,27 +13,19 @@ class MyStack {
     public int pop() {
         int n = q1.size();
         for(int i = 1; i < n ;i++){
-            q2.add(q1.remove());
+            q1.add(q1.remove());
         }
         int temp = q1.remove();
-        int x = q2.size();
-        for(int i = 1; i <= x ;i++){
-            q1.add(q2.remove());
-        }
         return temp;
     }
     
     public int top() {
         int n = q1.size();
         for(int i = 1; i < n ;i++){
-            q2.add(q1.remove());
+            q1.add(q1.remove());
         }
         
         int temp = q1.remove();
-        int x = q2.size();
-        for(int i = 1; i <= x ;i++){
-            q1.add(q2.remove());
-        }
         q1.add(temp);
         return temp;
     }
