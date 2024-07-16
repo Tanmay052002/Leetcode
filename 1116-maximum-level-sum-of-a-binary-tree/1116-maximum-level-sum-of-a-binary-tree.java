@@ -15,12 +15,13 @@
  */
 class Solution {
     public int maxLevelSum(TreeNode root) {
-        List<Integer> al = new ArrayList<>();
-        
+        int max = Integer.MIN_VALUE;
+        int maxlvl = 1;
         Queue<TreeNode> q = new LinkedList<>();
 
         q.add(root);
 
+        int lvl = 1;
         while(q.size()>0){
             int n = q.size();
             int sum = 0;
@@ -36,19 +37,14 @@ class Solution {
                     }
                 }
             }
-            al.add(sum);
-        }
-        int max = al.get(0);
-        int size = al.size();
-        int j = 0;
-
-        for(int i = 0; i<size ; i++){
-            if(al.get(i) > max){
-                max = al.get(i);
-                j = i;
+            if(sum > max){
+                max = sum;
+                maxlvl = lvl;
             }
+            lvl++;
         }
+        
 
-        return j+1;
+        return maxlvl;
     }
 }
