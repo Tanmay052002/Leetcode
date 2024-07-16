@@ -15,19 +15,29 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p == null && q == null){
-            return true;
-        }
-        if(p == null || q == null){
-            return false;
-        }
-        if(p.val != q.val){
-            return false;
-        }
+        List<Integer> al1 = lvlTravese(p);
+        List<Integer> al2 = lvlTravese(q);
+        
+        return al1.equals(al2);
+    }
+    public List<Integer> lvlTravese(TreeNode root){
+        List<Integer> al = new ArrayList<>();
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
 
-        boolean tempLeft = isSameTree(p.left,q.left);
-        boolean tempRight = isSameTree(p.right,q.right);
-
-        return tempLeft && tempRight;
+        while(q.size()>0){
+            int n = q.size();
+            for(int i = 1; i<=n;i++){
+                TreeNode temp = q.remove();
+                if(temp == null){
+                    al.add(null);
+                }else{
+                    al.add(temp.val);
+                    q.add(temp.left);
+                    q.add(temp.right);
+                }
+            }
+        }
+        return al;
     }
 }
