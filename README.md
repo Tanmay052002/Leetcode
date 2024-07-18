@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tanmay052002/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Tanmay052002/Leetcode/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/Tanmay052002/Leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Tanmay052002/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Tanmay052002/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanmay052002/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Tanmay052002/Leetcode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Tanmay052002/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -206,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanmay052002/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanmay052002/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tanmay052002/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/Tanmay052002/Leetcode/tree/master/0279-perfect-squares) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tanmay052002/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
