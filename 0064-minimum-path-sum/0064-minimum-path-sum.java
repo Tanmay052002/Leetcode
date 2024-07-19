@@ -2,9 +2,7 @@ class Solution {
     public int minPathSum(int[][] grid) {
         int m =grid.length;
         int n =grid[0].length;
-        // if(grid[0][0] == 1){
-        //     return 0;
-        // }
+
         int[][] dp = new int[m][n];
         
         for (int[] row : dp) {
@@ -27,9 +25,9 @@ class Solution {
         int x = helper(grid,i-1,j,dp);
         int y = helper(grid,i,j-1,dp);
         
-        int res = Math.min(x,y) + grid[i][j];
-        dp[i][j] = res;
-        return res;
+        dp[i][j] = Math.min(x,y) + grid[i][j];
+        
+        return  Math.min(x,y) + grid[i][j];
     
     }
 }
