@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tanmay052002/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Tanmay052002/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Tanmay052002/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tanmay052002/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Tanmay052002/Leetcode/tree/master/0189-rotate-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Tanmay052002/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tanmay052002/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Tanmay052002/Leetcode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Tanmay052002/Leetcode/tree/master/1013-fibonacci-number) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tanmay052002/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Tanmay052002/Leetcode/tree/master/0279-perfect-squares) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tanmay052002/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanmay052002/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
