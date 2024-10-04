@@ -2,3 +2,4 @@
 SELECT Eui.unique_id , E.name
 FROM Employees E 
 Natural LEFT JOIN EmployeeUNI Eui 
+-- ON E.id = Eui.id;
